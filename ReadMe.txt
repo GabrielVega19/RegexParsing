@@ -1,0 +1,1 @@
+This program is just one file and you can compile it with the makefile. After that if you want to run it you can pass it one of the diagnostic files that I included and you will get another file with the output. 
